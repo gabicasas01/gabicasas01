@@ -1,5 +1,6 @@
-# Hola, Soy Gabriel 👋🏻👨🏻‍💻
+# Hola, mi nombre es Gabriel 👋🏻👨🏻‍💻
 
 
-Full Stack Developer con formación como Diseñador Web. Experiencia trabajando en Javascript, NodeJS, React, Redux, SQL entre otras tecnologías del sector.
-Con pensamiento creativo, resolución de problemas, trabajo en equipo, comunicación y autonomía.
+Soy Desarrollador Web Full Stack capacitado en el bootcamp de Soy Henry, donde me especialicé en tecnologías web como Javascript, React JS, Redux, Express Js, Node JS, Sequelize, PostgreSQL, HTML, CSS, entre otras.
+
+👉Podés contactarte conmigo a través de este medio o por mi e-mail: casas.gf7@gmail.com
