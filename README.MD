@@ -4,9 +4,7 @@ Tengo formación como Desarrollador Web y experiencia trabajando con Javascript,
 <hr/>
 🔍 Estoy actualmente en búsqueda laboral.
 🚀 Con muchas ganas de seguir aprendiendo y demostrar lo que sé!
-💡 Tengo conocimiento en JavaScript | TypeScript | React | Redux | HTML | CSS | Tailwind | Sass | Node | Express | SQL |
 <hr/>
-
 <h3>📩 Por acá podés contactarme</h3>
 
 - Portfolio Web: <a href="https://www.gabicasas.com.ar/" target="_blank" rel="noreferrer">gabicasas.com.ar</a>
