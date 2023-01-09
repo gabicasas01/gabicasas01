@@ -1,6 +1,14 @@
-# Hola, mi nombre es Gabriel 👋🏻👨🏻‍💻
+<h2> Hola, mi nombre es Gabriel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
+<h3>👨🏻‍💻 Soy Full Stack Developer</h3>
+Tengo formación como Desarrollador Web y experiencia trabajando con Javascript, NodeJs, React, Redux, SQL entre otras tecnologías del sector.
+<hr/>
+🔍 Estoy actualmente en búsqueda laboral.
+🚀 Con muchas ganas de seguir aprendiendo y demostrar lo que sé!
+💡 Tengo conocimiento en JavaScript | TypeScript | React | Redux | HTML | CSS | Tailwind | Sass | Node | Express | SQL |
+<hr/>
 
+<h3>📩 Por aquí puedes contactarme</h3>
 
-Soy Desarrollador Web Full Stack capacitado en el bootcamp de Soy Henry, donde me especialicé en tecnologías web como Javascript, React JS, Redux, Express Js, Node JS, Sequelize, PostgreSQL, HTML, CSS, entre otras.
-
-👉Podés contactarte conmigo a través de este medio o por mi e-mail: casas.gf7@gmail.com
+- Portfolio Web: <a href="https://www.gabicasas.com.ar/" target="_blank">gabicasas.com.ar</a>
+- Linkedin: <a href="https://www.linkedin.com/in/bygabicasas/" >/GabrielCasas</a>
+- Email: <a href="mailto:casas.gf77@gmail.com" target="_blank">casas.gf7@gmail.com</a>
