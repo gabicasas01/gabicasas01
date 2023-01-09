@@ -3,14 +3,12 @@
 Tengo formación como Desarrollador Web y experiencia trabajando con Javascript, NodeJs, React, Redux, SQL entre otras tecnologías del sector.
 <hr/>
 🔍 Estoy actualmente en búsqueda laboral.
-<hr/>
 🚀 Con muchas ganas de seguir aprendiendo y demostrar lo que sé!
-<hr/>
 💡 Tengo conocimiento en JavaScript | TypeScript | React | Redux | HTML | CSS | Tailwind | Sass | Node | Express | SQL |
 <hr/>
 
-<h3>📩 Por aquí puedes contactarme</h3>
+<h3>📩 Por acá podés contactarme</h3>
 
-- Portfolio Web: <a href="https://www.gabicasas.com.ar/" target="_blank">gabicasas.com.ar</a>
-- Linkedin: <a href="https://www.linkedin.com/in/bygabicasas/" target="_blank">/GabrielCasas</a>
-- Email: <a href="mailto:casas.gf77@gmail.com" target="_blank">casas.gf7@gmail.com</a>
+- Portfolio Web: <a href="https://www.gabicasas.com.ar/" target="_blank" rel="noreferrer">gabicasas.com.ar</a>
+- Linkedin: <a href="https://www.linkedin.com/in/bygabicasas/" target="_blank" rel="noreferrer">/GabrielCasas</a>
+- Email: <a href="mailto:casas.gf77@gmail.com" target="_blank" rel="noreferrer">casas.gf7@gmail.com</a>
