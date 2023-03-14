@@ -8,6 +8,16 @@ Con 3 años de experiencia como Community Manager, he desarrollado habilidades e
 <br></br>
 🔍 Si buscas a alguien comprometido, motivado para avanzar en su carrera en la industria de la tecnología y que constantemente se esfuerza por mejorar sus habilidades, ¡contáctame! Estoy emocionado por las oportunidades de crecimiento y aprendizaje.
 <hr/>
+Hi there! I'm Gabriel, a Full Stack developer with a love for programming and teamwork. My focus is on working together to create unique and efficient solutions for clients. 🚀
+<br></br>
+In 2022, I earned a Full Stack Developer certificate from Soy Henry, which allowed me to develop expertise in technologies like HTML, CSS, JavaScript, Node.js, React, and SQL through 800 hours of hands-on practice and real-world projects.
+<br></br>
+With three years of experience as a Community Manager, I've honed my organizational and team-building skills, enabling me to adapt and contribute effectively to any project. Also, I led social media strategies, implementing engaging content and improving audience engagement. Now as a developer, design and user experience are my key focus.🙌✨
+<br></br>
+I've worked with a wide range of technologies, including HTML & CSS, JavaScript, React & React Native, Redux, Bootstrap & Tailwind CSS, TypeScript, Node.js, Express, and Sequelize.
+<br></br>
+If you're looking for someone who is committed, motivated to advance in the tech industry, and constantly striving to improve their skills, look no further. Contact me now! I'm excited about opportunities for growth and learning.
+<hr/>
 <h3>📩 Por acá podés contactarme</h3>
 - Portfolio Web: <a href="https://www.gabicasas.com.ar/" target="_blank" rel="noreferrer">gabicasas.com.ar</a>
 - Linkedin: <a href="https://www.linkedin.com/in/bygabicasas/" target="_blank" rel="noreferrer">/GabrielCasas</a>
