@@ -1,5 +1,7 @@
 <h2> Hola, mi nombre es Gabriel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 <h3>👨🏻‍💻 Soy Full Stack Developer</h3>
+¡Hola! Soy Gabriel, un desarrollador Full Stack con pasión por la programación y el trabajo en equipo. Mi enfoque es trabajar en conjunto para crear soluciones únicas y eficientes para los clientes. 🚀
+<br></br>
 En 2022, obtuve un certificado en Soy Henry como Full Stack Developer, lo que me permitió adquirir habilidades en tecnologías como HTML, CSS, JavaScript, Node.js, React y SQL, luego de 800 horas de programación basadas en prácticas y proyectos reales.
 <br></br>
 Con 4 años de experiencia como Social Media Manager en insdustrias como educación, agro, inmuebles y comercio electrónico, he desarrollado habilidades en organización y trabajo en equipo que me permiten adaptarme y contribuir de manera efectiva en proyectos. Además, lideré estrategias de redes sociales, implementando contenido atractivo y mejorando el engagement con la audiencia. Ahora como desarrollador, el diseño y experiencia de usuario son mi enfoque clave. 🙌✨
