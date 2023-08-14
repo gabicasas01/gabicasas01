@@ -1,22 +1,21 @@
 <h2> Hola, mi nombre es Gabriel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
-<h3>👨🏻‍💻 Soy Full Stack Developer</h3>
-Con pasión por la programación y el trabajo en equipo, mi enfoque es trabajar en conjunto para crear soluciones únicas y eficientes para los clientes. 🚀
+<h3>👨🏻‍💻 Soy desarrollador Full Stack con experiencia en aplicaciones web y móviles. </h3>
 <br></br>
-En 2022, obtuve un certificado en Soy Henry como Full Stack Developer, lo que me permitió adquirir habilidades en tecnologías como HTML, CSS, JavaScript, Node.js, React y SQL, luego de 800 horas de programación basadas en prácticas y proyectos reales.
+Actualmente trabajo en ScaleMote como desarrollador backend, donde colaboro en el desarrollo y mantenimiento de una billetera digital móvil basada en tecnología blockchain. 🚀
 <br></br>
-Con 4 años de experiencia como Social Media Manager en insdustrias como educación, agro, inmuebles y comercio electrónico, he desarrollado habilidades en organización y trabajo en equipo que me permiten adaptarme y contribuir de manera efectiva en proyectos. Además, lideré estrategias de redes sociales, implementando contenido atractivo y mejorando el engagement con la audiencia. Ahora como desarrollador, el diseño y experiencia de usuario son mi enfoque clave. 🙌✨
+🔙 En 2022, comencé mi camino en la programación en Soy Henry, donde adquirí habilidades como Full Stack Developer y colaboré en el desarrollo de un e-commerce. Además, con 4 años de experiencia como Social Media Manager, he desarrollado habilidades en organización y trabajo en equipo que me permiten adaptarme y contribuir efectivamente en proyectos.
 <br></br>
-👨🏽‍💻He trabajado con tecnologías como HTML, CSS, Javascript, React, React Native, Next.js, WordPress, Redux, Bootstrap, Tailwind CSS, TypeScript, Node.js, Express, Sequelize, SQL, PostgreSQL, MongoDB, Scrum, Photoshop, Canva, Google Analytics, Meta Business Suite.
+👨🏽‍💻 He trabajado con tecnologías como: Typescript, Javascript, Nest.js, Node.js, Express, React, React Native, Next.js, Vue.js, Redux, Bootstrap, Tailwind CSS, HTML, CSS, Sass, Sequelize, SQL, PostgreSQL, MongoDB, MySQL, Scrum, WordPress, Google Analytics, Meta Business Suite. 
 <br></br>
 🔍 Si buscas a alguien comprometido, motivado para avanzar en su carrera en la industria de la tecnología y que constantemente se esfuerza por mejorar sus habilidades, ¡contáctame! Estoy emocionado por las oportunidades de crecimiento y aprendizaje.
 <hr/>
-Hi there! I'm Gabriel, a Full Stack developer with love for programming and teamwork. My focus is on working together to create unique and efficient solutions for clients. 🚀
+Hi there!👋🏽 My name is Gabriel and I'm a Full Stack developer with experience in web and mobile applications. 
 <br></br>
-In 2022, I earned a Full Stack Developer certificate from Soy Henry, which allowed me to develop expertise in technologies like HTML, CSS, JavaScript, Node.js, React, and SQL through 800 hours of hands-on practice and real-world projects.
+I'm currently working at ScaleMote as a backend developer, where I collaborate in the development and maintenance of a mobile digital wallet based on blockchain technology. 🚀
 <br></br>
-With four years of experience as a Social Media Manager in industries such as education, real estate, and e-commerce, I've honed my organizational and team-building skills, enabling me to adapt and contribute effectively to any project. Also, I led social media strategies, implementing engaging content and improving audience engagement. Now as a developer, design and user experience are my key focus.🙌✨
+🔙 In 2022, I started my journey in programming at Soy Henry, where I gained skills as a Full Stack Developer and collaborated in the development of e-commerce. Also, with 4 years of experience as a Social Media Manager, I have developed skills in organization and teamwork that allow me to adapt and contribute effectively to projects.
 <br></br>
-👨🏽‍💻I've worked with a wide range of technologies, including HTML, CSS, Javascript, React, React Native, Next.js, WordPress, Redux, Bootstrap, Tailwind CSS, TypeScript, Node.js, Express, Sequelize, SQL, PostgreSQL, MongoDB, Scrum, Photoshop, Canva, Google Analytics, Meta Business Suite.
+👨🏽‍💻 I have worked with technologies such as Typescript, Javascript, Nest.js, Node.js, Express, React, React Native, Next.js, Vue.js, Redux, Bootstrap, Tailwind CSS, HTML, CSS, Sass, Sequelize, SQL, PostgreSQL, MongoDB, MySQL, Scrum, WordPress, Google Analytics, Meta Business Suite. 
 <br></br>
 If you're looking for someone who is committed, motivated to advance in the tech industry, and constantly striving to improve their skills, look no further. Contact me now! I'm excited about opportunities for growth and learning.
 <hr/>
