@@ -1,6 +1,5 @@
 <h2> Hola, mi nombre es Gabriel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 <h3>👨🏻‍💻 Soy desarrollador Full Stack con experiencia en aplicaciones web y móviles. </h3>
-<br></br>
 Actualmente trabajo en ScaleMote como desarrollador backend, donde colaboro en el desarrollo y mantenimiento de una billetera digital móvil basada en tecnología blockchain. 🚀
 <br></br>
 🔙 En 2022, comencé mi camino en la programación en Soy Henry, donde adquirí habilidades como Full Stack Developer y colaboré en el desarrollo de un e-commerce. Además, con 4 años de experiencia como Social Media Manager, he desarrollado habilidades en organización y trabajo en equipo que me permiten adaptarme y contribuir efectivamente en proyectos.
