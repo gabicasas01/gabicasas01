@@ -6,6 +6,7 @@ I trained in programming at Teclab Instituto Técnico Superior and currently wor
 I am passionate about challenges that create a positive impact on people and am committed to continuing to learn and innovate in the fintech sector. 🤩
 <br></br>
 👨🏽‍💻 Technologies I have worked with:
+<br></br>
 - Languages and frameworks: Rust, TypeScript, JavaScript, Node.js, NestJS, Express.js.
 - Databases: PostgreSQL, MongoDB, MySQL, SQL, Sequelize, TypeORM.
 - Infrastructure: AWS, Docker.
