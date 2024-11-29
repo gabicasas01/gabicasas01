@@ -9,48 +9,22 @@ I am passionate about challenges that create a positive impact on people and am 
 ### 👨🏽‍💻 Technologies I have worked with:
 
 1. **Languages and Frameworks:**
-   - Rust
-   - TypeScript
-   - JavaScript
-     - Node js
-     - Nest js
-     - Express js
+   - Rust, TypeScript, JavaScript, Node js, Nest js, Express js
 
 2. **Databases:**
-   - PostgreSQL
-   - MongoDB
-   - MySQL
-   - SQL
-   - Sequelize
-   - TypeORM
+   - PostgreSQL, MongoDB, MySQL, Sequelize, TypeORM
 
 3. **Infrastructure:**
-   - AWS
-   - Docker
+   - AWS & Docker
 
 4. **Blockchain:**
    - Stellar SDK
 
 5. **Frontend:**
-   - React
-   - Next js
-   - Vue js
-   - React Native
-   - Redux
-   - Svelte
-   - Bootstrap
-   - Tailwind CSS
-   - HTML
-   - CSS
-   - Sass
+   - React, Next js, Vue js, React Native, Redux, Svelte, Bootstrap, Tailwind CSS, HTML, CSS, Sass
 
 6. **Other Tools:**
-   - Scrum
-   - Cypress
-   - Jest
-   - WordPress
-   - Google Analytics
-   - Meta Business Suite
+   - Scrum, Cypress, Jest, WordPress, Google Analytics, Meta Business Suite
 
 ### Languages:
 
