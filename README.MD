@@ -1,5 +1,5 @@
 <h2> Hi there! My name is Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
-<h3>👨🏻‍💻 I am a Software Developer with 2 years of experience in web and mobile application development, specializing in backend and blockchain technologies. 🚀
+<h3>👨🏻‍💻 I am a Software Developer with 2 years of experience in web and mobile application development, specializing in backend and blockchain technologies. 🚀</h3>
 <br></br>
 I trained in programming at Teclab Instituto Técnico Superior and currently work at Bigger, within its fintech division, Planet Pay. Here, I focus on developing innovative solutions using Blockchain and Web3.
 <br></br>
