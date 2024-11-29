@@ -12,9 +12,9 @@ I am passionate about challenges that create a positive impact on people and am 
    - Rust
    - TypeScript
    - JavaScript
-     - Node.js
-     - NestJS
-     - Express.js
+     - Node js
+     - Nest js
+     - Express js
 
 2. **Databases:**
    - PostgreSQL
@@ -33,8 +33,8 @@ I am passionate about challenges that create a positive impact on people and am 
 
 5. **Frontend:**
    - React
-   - Next.js
-   - Vue.js
+   - Next js
+   - Vue js
    - React Native
    - Redux
    - Svelte
@@ -47,6 +47,7 @@ I am passionate about challenges that create a positive impact on people and am 
 6. **Other Tools:**
    - Scrum
    - Cypress
+   - Jest
    - WordPress
    - Google Analytics
    - Meta Business Suite
